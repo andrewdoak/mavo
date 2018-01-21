@@ -2,5 +2,14 @@
 	"link1": "html/convert.html",
 	"link2": "html/array.html",
 	"page1": {},
-	"logo": "images/home-washed-red.svg"
+	"logo": "images/home-washed-red.svg",
+	"collection": [
+		{},
+		{
+			"link1": "html/convert.html",
+			"link": "Project 1",
+			"link2": "Link"
+		}
+	],
+	"content": []
 }
